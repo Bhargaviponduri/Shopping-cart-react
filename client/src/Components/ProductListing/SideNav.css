@@ -1,0 +1,7 @@
+.sidenav {
+    background-color: rgb(197, 196, 196);
+    width: 15%;
+    height: 100vh;
+    position: fixed;
+    margin-top: 105px;
+}
